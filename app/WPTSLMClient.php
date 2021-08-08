@@ -539,7 +539,7 @@ class WPTSLMClient {
        
         $params = [
             'p' => '10023',
-            'l' => 'weadown',
+            'l' => 'nullmasterinbabiato',
             'd' => $this->getServerName()
         ];
 
@@ -624,7 +624,7 @@ class WPTSLMClient {
     }
 
     private function getLicenseKey() {
-        return 'weadown';
+        return 'nullmasterinbabiato';
     }
 
     private function getValidOptionName() {
